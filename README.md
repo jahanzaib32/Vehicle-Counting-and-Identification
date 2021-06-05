@@ -1,6 +1,6 @@
 # Vehicle Counting and Identification
  
-![Compiled output of the project](output.gif)
+[![Compiled output of the project](https://img.youtube.com/vi/r_tIaplsZXA/0.jpg)](https://www.youtube.com/watch?v=r_tIaplsZXA)
 
 The project is basically for the identification and recognition of vehicle number plates using deep learning. This project is trained on **standard Pakistan number plates**.
 
